@@ -1,0 +1,7 @@
+.LayoutContainer{
+    background-color: green;
+    width: 15%;
+    height: inherit;
+    
+    border-right: 1px solid black;
+}
